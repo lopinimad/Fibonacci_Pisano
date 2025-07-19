@@ -2,6 +2,8 @@
 Calculate Fibonacci pisano and illustrate it With Matrix
 A Fabric of SpaceTime
 
+https://lopinimad.github.io/fibonacci_pisano/
+
 
 F1 0 F2 8 MOD 10  === reverse Fibonacci seq (DarkSide)
 <img width="1365" height="602" alt="Capture111111" src="https://github.com/user-attachments/assets/4042d723-fb1c-4dcd-999a-6e814d471f42" />
